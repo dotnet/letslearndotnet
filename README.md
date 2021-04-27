@@ -1,6 +1,6 @@
 # Let's Learn .NET
 
-This monthly beginner series will walk through the fundamentals of using C# and .NET for everyday living. Come learn something new and leave with something that we all built, together, live with experts.
+This monthly beginner series will walk through the fundamentals of using .NET for building applications. Come learn something new and leave with something that we all built, together, live with experts.
 
 Head to [aka.ms/LetsLearnDotNET](http://aka.ms/letslearndotnet) to learn more.
 
