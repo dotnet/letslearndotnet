@@ -78,7 +78,7 @@ We reserve the right to verify the validity of entries and to disqualify any ent
 
 ## 10. WINNERS LIST
 
-We will be able to obtain the list of winners through the Cloud Skills Challenge platform. When prize winners are identified, a mail will be sent to you from the planning team to claim your prize. All prize communications will be complete by August 5th 2022. If you did not receive communication from the event team, then that means you were not granted a prize. We are not responsible for unread emails, spam email folders, accidently deleted mails, or other forms of loss. 
+We will be able to obtain a list of winners through entries submitted in the guidelines. When prize winners are identified, a mail will be sent to you from the planning team to claim your prize. All prize communications will be complete by August 5th 2022. If you did not receive communication from the event team, then that means you were not granted a prize. We are not responsible for unread emails, spam email folders, accidently deleted mails, or other forms of loss. 
 
 ## 11. PRIVACY
 
